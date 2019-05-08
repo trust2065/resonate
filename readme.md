@@ -8,3 +8,7 @@ run `yarn test` to see test result
 
 `docket.js & docket.html`
 also see https://codepen.io/trust2065/pen/BeavvJ?editors=0010
+
+## Real World
+
+find in Tweets folder
